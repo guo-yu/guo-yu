@@ -1,5 +1,5 @@
 <a href="#stats" align="center">
-    <img align="center" alt="Guo Yu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=guo-yu&count_private=true&show_icons=true&include_all_commits=true&show_owner=true"/>
+    <img align="center" alt="Guo Yu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=guo-yu&count_private=true&show_icons=true&include_all_commits=true&show_owner=true&theme=material-palenight"/>
 </a>
 
 <!--
