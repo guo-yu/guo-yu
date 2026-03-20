@@ -32,5 +32,5 @@ We build next-generation social infrastructure connecting humans, AI, and Crypto
 我们构建连接人类、AI 与 Crypto 的下一代社会基础设施。
 
 <p align="center">
-  <sub>🏢 chekusu Inc. · Tokyo, Japan</sub>
+  <sub>🏢 <a href="https://chekusu.com">chekusu Inc.</a> · Tokyo, Japan</sub>
 </p>
