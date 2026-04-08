@@ -11,6 +11,7 @@ These are what I've built since I started vibe coding:
 | 🎬 | [VISI0](https://visi0.com/) | AI-powered video creation workflow. From story text to finished video, all-in-one generation.<br>AI 驱动的视频创作工作流，从故事文本到成片，一站式视频生成。 |
 | 🧱 | [m0rphic](https://m0rphic.dev/) | Automated tracking and personalized UI kit for unique interfaces.<br>自动化埋点与个性化 UI 套件，千人千面的界面体验。 |
 | 📧 | [kimeeru](https://kimeeru.com/) | AI reads your email, you read the summary. Decide your inbox with smart email management.<br>AI 阅读邮件，你只看摘要。智能邮件管理，掌控你的收件箱。 |
+| 📞 | [tuwa](https://tuwa.ai/) | Your personal phone agent. Make AI-powered calls on your behalf — it learns your voice, remembers every conversation, and connects your cloud agents to the phone network.<br>你的专属电话代理。AI 代你拨打电话，学习你的语音风格，记住每次对话，还能将云端 Agent 接入电话网络。 |
 
 
 | |  | for agents |
